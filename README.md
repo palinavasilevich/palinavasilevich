@@ -32,8 +32,24 @@ Outside of coding, I enjoy **running, crafting and crochet, playing board games,
 
 ---
 
-## 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=palinavasilevich&theme=radical&hide_border=false)<br/>
+## 🔥 GitHub Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/palinavasilevich/palinavasilevich/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/palinavasilevich/palinavasilevich/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/palinavasilevich/palinavasilevich/output/github-contribution-grid-snake.svg"
+    >
+  </picture>
+</p>
 
 ---
 
