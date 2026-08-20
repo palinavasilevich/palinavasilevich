@@ -1,36 +1,73 @@
-# 👋 Hello there!
-I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bochum, Germany
+## 👋 Hi, I'm Palina
 
- <div>
-   <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=palinavasilevich&layout=compact&langs_count=16&theme=dracula"" alt="palinavasilevich"/>
- </div>
- 
+I'm a **Frontend Developer** with 4+ years of experience building modern web applications with **JavaScript, TypeScript and React**.
 
-### 🛠 Technologies & Tools
-<div>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
- <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
- <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+I enjoy turning ideas into clean, intuitive interfaces and I'm especially interested in **React architecture, TypeScript and building maintainable frontend applications**.
+
+Outside of coding, I enjoy **running, crafting and crochet, playing board games, and reading**. I like working on personal projects that combine my interests with my passion for development.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,vite)](https://skillicons.dev)
+
+### Styling
+
+[![Styling](https://skillicons.dev/icons?i=tailwind,sass)](https://skillicons.dev)
+
+### Backend & Database
+
+[![Backend & Database](https://skillicons.dev/icons?i=nodejs,express,prisma)](https://skillicons.dev)
+
+### Testing & Tools
+
+[![Testing & Tools](https://skillicons.dev/icons?i=vitest,jest,git,github,webpack,storybook)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+    height="165"
+  />
 </p>
 
-#### Reach me out 👇🏼
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:polina.vasilevichh@gmail.com)](mailto:polina.vasilevichh@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/palina-vasilevich-b3b8441b4/)](https://www.linkedin.com/in/palina-vasilevich-b3b8441b4/)
+---
 
-<!--
-**PalinaVasilevich/PalinaVasilevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Learning
 
-Here are some ideas to get you started:
+I'm currently focusing on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔷 Advanced TypeScript
+- ⚛️ React architecture and design patterns
+- ▲ Next.js
+- 🧪 Testing with Vitest
+- 🏗️ Frontend system design
+- 🧩 Writing maintainable and scalable frontend code
+
+---
+
+## 📫 Let's Connect
+
+I'm currently open to **Frontend Developer opportunities in Germany**.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/palina-vasilevich)
+- 🌐 [Portfolio](https://palina-vasilevich.vercel.app)
+- 📧 [Email](mailto:palina.vasilevich@gmail.com)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
